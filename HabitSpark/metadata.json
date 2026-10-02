@@ -1,0 +1,6 @@
+{
+  "name": "HabitSpark - Cloud & Sync Habit Tracker",
+  "description": "Мобильный трекер привычек с облачным бэкапом, синхронизацией между устройствами, офлайн-режимом и социальными лидербордами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
